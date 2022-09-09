@@ -1,3 +1,6 @@
 blow
 flow
 slow
+code
+mode
+load
