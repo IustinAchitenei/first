@@ -3,3 +3,5 @@ zone
 werer
 mare
 ware
+fare
+mare
