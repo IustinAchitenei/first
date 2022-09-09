@@ -4,3 +4,6 @@ slow
 code
 mode
 load
+toad
+pond
+floor
